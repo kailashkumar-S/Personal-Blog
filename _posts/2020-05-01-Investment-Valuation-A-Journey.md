@@ -8,7 +8,7 @@ tags:
   - valuation
 ---
 
-![placeholder](/assets/Investment-valuation-a-journey.jpg "Large example image")
+![placeholder](/assets/post-1.jpg "Large example image")
 
 ### Premise
 
