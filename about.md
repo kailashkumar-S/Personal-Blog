@@ -15,7 +15,7 @@ I also love to read and engage in ~~discussions~~ memeing about philosophy. Few 
 
 ![placeholder](/assets/about-meme-1.jpg "Medium example image"){:height="400px" width="400px"}
 
-Other than spending my time reading I also love to football[A huge manchester United fan] and spend most part of my day listening to songs, a lot. Few of my favorite artists include Tame Impala, Kanye west, Arctic monkeys. I also spend most parts of my weekend binge-watching cartoons and anime. Naruto and adventure time are my all time favourites.
+Other than reading I also love to watch football[A huge manchester United fan] and listening to a lot of songs. Few of my favorite artists include Tame Impala, Kanye west, Arctic monkeys. I also a big fan of cartoons and anime. Naruto and adventure time are few of my all time favourites.
 
 ![placeholder](/assets/about-meme-2.gif "Small example image")
 
