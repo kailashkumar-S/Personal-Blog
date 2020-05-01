@@ -37,4 +37,4 @@ The link to the company's annual report is given [here](#).
 
 From here on each post will be more of a step-by-step guide to valuing the company, with each post containing few lessons condensed and those principle put into practice. At the end of this journey I aim to gain an intuitive understanding about valuation and develop a structured approach to value a firm, also to have valued the chosen company succesfully.
 
-The index for all the remaining posts in this series is given in this [post](#).
+The index for all the remaining posts in this series is given [here](#).
