@@ -8,6 +8,8 @@ tags:
   - valuation
 ---
 
+![placeholder](/assets/Post-cover.jpg "Large example image")
+
 ## Post 1 in the valuation series 
 
 The idea behind valuation is to understand an asset and try to identify the sources that gives the value to the asset and measure the value with close approximation.

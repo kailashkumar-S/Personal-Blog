@@ -8,7 +8,7 @@ tags:
   - valuation
 ---
 
-![placeholder](/assets/post-1.jpg "Large example image")
+![placeholder](/assets/Post-cover.jpg "Large example image")
 
 ### Premise
 
