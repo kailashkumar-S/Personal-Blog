@@ -7,9 +7,9 @@ sidebar_link: true
 ![placeholder](/assets/Hero-image.jpg "Large example image")
 
 
-Hi, I am kailash. I completed my undergraduate degree in Electrical engineering, in the year 2019, and I am currently working as an analyst at Deloitte USI, Bengaluru. Even though the field of my study was in engineering, I find my interests in lot of other things. 
+Hi, I am Kailash. I completed my undergraduate degree in Electrical engineering, in the year 2019, and I am currently working as an analyst at Deloitte USI, Bengaluru. Even though the field of my study was in engineering, I find my interests in lot of other things. 
 
-Being a bookworm, I spent most of my childhood and teens reading books on a variety of subjects and this helped me develop an interest for finance and writting. Later on I decided to pursue my profession in finance and the writting as a passion. This blog has been an attempt by me to bring the two thing that I love together. My writtings will focus on the lessons that I've learnt in finance and occasionally it will also on things that I find useful and interesting.
+Being a bookworm, I spent most of my childhood and teens reading books on a variety of subjects and this helped me develop an interest for finance and writting. Later on I decided to pursue my profession in finance and the writting as a passion. This blog has been an attempt by me to bring the two things that I love together. My writtings will focus on the lessons that I've learnt in finance and occasionally on things that I find useful and interesting.
 
 I also love to read and engage in ~~discussions~~ memes about philosophy. I have read the works of Nietzsche, Marcus Aurelius and Albert Camus to name a few and have developed a great liking for stoicism.
 
@@ -19,4 +19,4 @@ I am a huge manchester united fan and spend pretty much most part of my day list
 
 ![placeholder](/assets/about-meme-2.gif "Small example image")
 
-I hope you enjoy reading my blog as much as I love writting them, please do send in your feedback and remarks at kailashkumar.official@gmail.com, would love to hear from you. Cheers !!
+I hope you enjoy reading my blog as much as I love writing them, please do send in your feedback and remarks at kailashkumar.official@gmail.com, would love to hear from you. Cheers !!
