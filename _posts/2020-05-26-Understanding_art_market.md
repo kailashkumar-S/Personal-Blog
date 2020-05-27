@@ -40,7 +40,7 @@ Collectors, new or experienced, are generally looking to buy art to build their 
 Designers usually buy artwork to complement their style and aesthetics in a project that they work on.
 
 **Consumers** \\
-People who are less inclined to buy artwork to build a collection, but rather for purely investment purposes. This portion of the art market represents a major segment of buyers. Individual sales are considered an indicator of future gallery representations which can make or break a new artist’s career.
+Consumers are those who are less inclined to buy artwork to build a collection, but rather purely for investment purposes. Collectors represent a major segment of buyers in the art market. Such sales are considered an indicator of future gallery representations which can make or break a new artist’s career.
 
 ### The secondary market
 
